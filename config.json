@@ -2,7 +2,7 @@
 "inbounds": [
 {
 "port": 8080,
-"protocol": "vless",
+"protocol": "vmess",
 "settings": {
 "clients": [
 {
@@ -15,7 +15,7 @@
 "streamSettings": {
 "network": "ws",
 "wsSettings": {
-"path": "/TG:@ERROR_404_DZ"
+"path": "/GCP_OOREDOO_DZ"
 }
 }
 }
